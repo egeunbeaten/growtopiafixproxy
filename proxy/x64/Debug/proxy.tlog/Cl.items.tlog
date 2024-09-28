@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\enet\callbacks.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\callbacks.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\enet\compress.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\compress.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\enet\host.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\host.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\enet\list.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\list.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\enet\packet.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\packet.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\enet\peer.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\peer.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\enet\protocol.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\protocol.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\enet\unix.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\unix.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\enet\win32.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\win32.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\events.cpp;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\events.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\gt.cpp;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\gt.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proxy.cpp;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\proxy.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\sandbird\sandbird.c;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\sandbird.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\server.cpp;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\server.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\utils.cpp;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\utils.obj
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\httplib.h;C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\x64\Debug\httplib.obj

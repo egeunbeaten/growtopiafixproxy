@@ -1,0 +1,47 @@
+﻿  events.cpp
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(322,61): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('events.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(339,61): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('events.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(355,30): warning C4267: 'başlatılıyor': 'size_t' - 'uint32_t' dönüşümü; veri kaybı olabilir
+  ('events.cpp' kaynak dosyası derleniyor)
+  
+  gt.cpp
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(322,61): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('gt.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(339,61): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('gt.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(355,30): warning C4267: 'başlatılıyor': 'size_t' - 'uint32_t' dönüşümü; veri kaybı olabilir
+  ('gt.cpp' kaynak dosyası derleniyor)
+  
+  proxy.cpp
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(322,61): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('proxy.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(339,61): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('proxy.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(355,30): warning C4267: 'başlatılıyor': 'size_t' - 'uint32_t' dönüşümü; veri kaybı olabilir
+  ('proxy.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proxy.cpp(43,30): warning C4267: 'başlatılıyor': 'size_t' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proxy.cpp(113,15): warning C4101: 'e': yerel değişken başvurusu kaldırıldı
+  server.cpp
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(322,61): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('server.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(339,61): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  ('server.cpp' kaynak dosyası derleniyor)
+  
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proton\variant.hpp(355,30): warning C4267: 'başlatılıyor': 'size_t' - 'uint32_t' dönüşümü; veri kaybı olabilir
+  ('server.cpp' kaynak dosyası derleniyor)
+  
+  Kod Üretiliyor...
+C:\Users\Administrator\Desktop\AJ_ProxyBase\proxy\proxy.cpp(114,1): warning C4715: 'exit_handler': tüm denetim yolları değer döndürmez
+  proxy.vcxproj -> C:\Users\Administrator\Desktop\AJ_ProxyBase\x64\Debug\proxy.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
