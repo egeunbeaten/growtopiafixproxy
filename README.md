@@ -1,4 +1,4 @@
-# Growtopia Enet Proxy Base 2023
-## OpenSSL Download: https://slproweb.com/download/Win64OpenSSL-3_1_2.exe
+# Growtopia Fixed Proxy Base 2024
+## Need help? Discord: egeunbeatenn
 
 
